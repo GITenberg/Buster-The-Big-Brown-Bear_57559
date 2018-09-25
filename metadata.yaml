@@ -1,5 +1,8 @@
 _repo: Buster-The-Big-Brown-Bear_57559
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57559-h/images/cover.jpg
 creator:
   author:
     agent_name: Walsh, George Ethelbert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8170'
     url: http://www.gutenberg.org/2009/agents/8170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57559#Buster-The-Big-Brown-Bear
 gutenberg_issued: '2018-07-21'
 gutenberg_type: Text
 identifiers:
